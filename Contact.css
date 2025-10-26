@@ -1,0 +1,23 @@
+
+body{
+    background-color: black;
+    color: white;
+    justify-content: center;
+    margin: 0;
+}
+h1{
+    text-align: center;
+    letter-spacing: 2px;
+}
+footer {
+  text-align: center;
+  padding: 10px 0;
+  background-color: #111;
+  color: #ccc;
+  font-size: 14px;
+  border-top: 1px solid #333;
+}
+p{
+    justify-items: center;
+    text-align: center;
+}
